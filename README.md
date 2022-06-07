@@ -21,6 +21,7 @@
 <div>
   <img height='35em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img height='35em' src='https://testing-library.com/img/octopus-128x128.png' />
+  <img height='35em' src='https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png'
 </div>
 
 ### Back-end com as Stacks: 
