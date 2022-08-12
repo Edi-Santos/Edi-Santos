@@ -2,8 +2,8 @@
 🚧 Atualmente este README.md se encontra em construção 🚚
 
 <div align='center'>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=Edi-Santos&theme=merko&count_private=true&show_icons=true' />
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Edi-Santos&layout=compact&theme=merko' />
+  <img height='150em' src='https://github-readme-stats.vercel.app/api?username=Edi-Santos&theme=merko&count_private=true&show_icons=true' />
+  <img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Edi-Santos&layout=compact&theme=merko' />
 </div>
 
 ##
