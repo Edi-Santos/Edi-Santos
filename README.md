@@ -38,11 +38,16 @@
 </div>
 
 #### QA Back-end com:
-<div style='display: flex justify-content: center'>
+<div>
   <img height="30em" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
   <img height="30em" src='https://sinonjs.org/assets/images/logo.png' />
   <img height="30em" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+</div>
+
+### Cloud:
+<div>
+  <img height="30em" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
 ##
