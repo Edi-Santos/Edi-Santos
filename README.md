@@ -1,5 +1,14 @@
 ## Olá! Bem vindo ao meu perfil! 😄😁 
-🚧 Atualmente este README.md se encontra em construção 🚚
+
+### Eu sou o Edimar. Me formei em Junho de 2022 em Desenvolvimento Web Full-stack pela <a href="https://www.betrybe.com/">Trybe</a>. <br>
+
+Eu tomei a iniciativa que dei o nome de: PorConta. Iniciativa esta onde eu crio projetos, crio testes e disponibilizo para as pessoas fazerem projetos TDD (Test Driven Development). A finalidade é de poder ajudar, principalmente, aqueles que estão no início de seus estudos. Geralmente, quando estamos começando (principalmente, <i>por conta</i> própria), não temos muitos parâmetros para medir nosso desempenho e, também, acabamos não tendo tanas ideias sobre projetos para praticarmos. Pensando nesses problemas, que eu também já enfreitei no início, decidi tomar esta iniciativa. <br>
+
+Os projetos estão agrupados num repositório que eu criei chamado <strong>projects_for_your_portfolio</strong>. Este repositório funciona como um acervo de todos os projetos desta iniciativa. <br>
+Foi criado, também, um servidor no Discord para podermos interagir, tirar dúvidas, criar uma rede de contatos, divulgar vagas de emprego, ajudar e ser ajudado, e coisas do tipo. Bora entrar nessa também?
+
+<strong><i>Acervo de projetos PorConta</i></strong>: https://github.com/Edi-Santos/projects_for_your_portfolio <br>
+<strong><i>Servidor no Discrod</i></strong>: https://discord.gg/KN4uxuaYg6
 
 <div align='center'>
   <img height='150em' src='https://github-readme-stats.vercel.app/api?username=Edi-Santos&theme=merko&count_private=true&show_icons=true' />
